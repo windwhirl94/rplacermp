@@ -1,13 +1,13 @@
 {
-  "contact": "r/milesprower http://www.discord.gg/tails",
+  "contact": "r/milesprower https://www.discord.gg/tails",
   "templates": [
     {
       "name": "Sonic & Tails",
       "sources": [
         "https://cdn.discordapp.com/attachments/824062909126672447/1132470453684948992/Untitled.png"
       ],
-      "x": 39,
-      "y": 319
+      "x": 0,
+      "y": 376
     }
   ],
   "whitelist": [],
